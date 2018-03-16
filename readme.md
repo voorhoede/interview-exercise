@@ -1,6 +1,6 @@
 # Interview exercise
 
-**Build a simple web site / web app with data from [our API](https://voorhoede-colibri-api.now.sh/)<sup>[^1]</sup>**.
+**Build a simple web site / web app with data from [our API](https://voorhoede-colibri-api.now.sh/)<sup>[1](#1)</sup>**.
 
 We built an API to give access to our website’s content via a [RESTful](https://voorhoede-colibri-api.now.sh/#restful-api) and a [GraphQL](https://voorhoede-colibri-api.now.sh/#graphql-api) interface. You can explore both APIs from within the browser. Your assignment is to use this API to build a new website or web app, anything you like, and by doing so demonstrate your skill and ingenuity to us.
 
@@ -19,4 +19,4 @@ Please don't spend days on it, keep it simple! If you have any questions now or 
 Good luck and have fun!
 
 ---
-[^1]: Note that because it runs on the free tier of Now.sh, it needs to spin up if it isn’t used for a while
+<a name="1">1</a>: Note that because it runs on the free tier of Now.sh, it needs to spin up if it isn’t used for a while
