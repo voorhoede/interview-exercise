@@ -19,4 +19,4 @@ Please don't spend days on it, keep it simple! If you have any questions now or 
 Good luck and have fun!
 
 ---
-<a name="1">1</a>: Note that because it runs on the free tier of Now.sh, it needs to spin up if it isn’t used for a while — which makes it slow 😴
+<a name="1">1</a>: Note that because it runs on the free tier of Now.sh, it needs to spin up if it isn’t used for a while — which makes it slow the first time ’round 😴
