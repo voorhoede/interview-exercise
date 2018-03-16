@@ -1,16 +1,9 @@
 # Interview exercise
 
-**Build a simple web site / web app with data from the [`files/`](files/) directory**.
+**Build a simple web site / web app with data from [our API](https://voorhoede-colibri-api.now.sh/)<sup>[^1]</sup>**.
 
-We've put the source of 3 of our blog posts in the [`files/`](files/) directory:
+We built an API to give access to our website’s content via a [RESTful](https://voorhoede-colibri-api.now.sh/#restful-api) and a [GraphQL](https://voorhoede-colibri-api.now.sh/#graphql-api) interface. You can explore both APIs from within the browser. Your assignment is to use this API to build a new website or web app, anything you like, and by doing so demonstrate your skill and ingenuity to us.
 
-* 9 ways to improve collaboration between developers and designers
-* Progressive Enhancement for JavaScript App Developers
-* Why our website is faster than yours
-
-Each post is available in 3 formats: Markdown, JSON and HTML.
-
-You're free to approach this however you like. You can use the [Github API](https://developer.github.com/v3/repos/contents/), The [Rawgit CDN](https://rawgit.com/), use this repository as a dependency in your project, or copy the files, or whatever you think is best. 
 
 When you're done, we'd like to be able to see the result in the browser as well as the source code.
 
@@ -24,3 +17,6 @@ We are interested to find out:
 Please don't spend days on it, keep it simple! If you have any questions now or along the way, please do contact us. We are very eager to see what you come up with.
 
 Good luck and have fun!
+
+---
+[^1]: Note that because it runs on the free tier of Now.sh, it needs to spin up if it isn’t used for a while
